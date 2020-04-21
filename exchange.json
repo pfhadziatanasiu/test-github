@@ -1,6 +1,1 @@
-{
-  "main": "test-github.raml",
-  "name": "test-github",
-  "classifier": "raml",
-  "tags": []
-}
+{"main":"test-github.raml","name":"test-github","classifier":"raml","tags":[]}
